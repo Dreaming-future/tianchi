@@ -2,6 +2,6 @@ matplotlib
 numpy
 opencv-python
 Pillow
-torch==1.8.1+cu101
+torch==1.8.1
 torchvision==0.9.1
 tqdm
